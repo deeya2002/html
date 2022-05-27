@@ -1,0 +1,44 @@
+User Stories
+1.As an admin, I want proper management of every section, so that students can get better facilities.
+2.As an admin, I want proper management of attendance, so that we can find out which student is attending class or not.
+3.As an admin, I want to have login information so that I can track the information that I need most.
+4.As an admin, I want to have a suggestions portal so that I can renovate it according to the need.
+5.As an admin, I want a feature to add a new lecture .
+6.As an admin, I want a feature to add the fees structure for each student.
+7.As an admin, I want the management of assignments, so that we can know about the progress of students.  
+8.As a lecturer, I can view examination slips so that I can know my examination room.
+9.As a user, I want to have library management so that I can use E-books as per my need.
+books
+realesed date
+return date 
+10.As a user, I want to have an online payment system so that I can pay my fees through the internet.
+11.As a student, I want a list of courses, so that students can get brief information about their courses.
+12.As a student, I want a routine in class, so that we do not miss the class.
+day
+teachers name
+room no. 
+13.As a student, I want to log in so that I can access all the facilities.
+Username 
+password
+login
+regiter new account
+14.As a student, I want to see my attendance record so that I can know my attendance percentage.
+present 
+absent
+total days
+15.As a student, I want to access my module so that I can read and make a note.
+subjects
+course 
+chapter 
+16.As a student, I can download files uploaded by lecturers, so that I can get my copy of the files.
+17.As a student, I can view the password hint, so that I can recall my password.
+18.As a student, I want to register so that I can access all the facilities. 
+email
+username
+passwordz
+confirm password
+19.As a student, I want a exam routine , so that we do not miss the exam.
+day 
+date
+roomno.
+subject
